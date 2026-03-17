@@ -1,6 +1,5 @@
 name: Mi Primer robot
-
-on:[push]
+on: [push]
 
 jobs:
   saludo:
